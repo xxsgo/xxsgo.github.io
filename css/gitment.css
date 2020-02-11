@@ -33,7 +33,7 @@ a.gitment-header-issue-link:visited {
 }
 
 .gitment-container .gitment-comment-main {
-    border: 1px solid #e1bee7;
+    border: 1px solid #36282B;
     border-radius: 5px;
 }
 
@@ -56,7 +56,7 @@ a.gitment-header-issue-link:visited {
 }
 
 .gitment-editor-container .gitment-editor-main {
-    border: 1px solid #e1bee7;
+    border: 1px solid #36282B;
     border-radius: 3px;
 }
 
@@ -108,8 +108,8 @@ a.gitment-header-issue-link:visited {
 
 .gitment-editor-footer .gitment-editor-submit, .gitment-comments-init-btn {
     color: #fff;
-    background-color: #9c27b0;
-    border-color: #9c27b0;
+    background-color: #36292F;
+    border-color: #36292F;
     border-radius: 0.2rem;
     box-shadow: 0 2px 2px 0 rgba(156, 39, 176, 0.14), 0 3px 1px -2px rgba(156, 39, 176, 0.2), 0 1px 5px 0 rgba(156, 39, 176, 0.12);
 }
@@ -123,7 +123,7 @@ a.gitment-header-issue-link:visited {
     cursor: pointer;
     margin: 4px 5px;
     padding: .25rem .5rem;
-    background-color: #9c27b0;
+    background-color: #36292F;
     color: #fff;
     border: 0;
     border-radius: 2px !important;
@@ -316,6 +316,6 @@ strong {
 }
 
 .gitment-markdown mark {
-    background-color: #fcf8e3;
+    background-color: #F8F8FF;
     padding: .2em;
 }

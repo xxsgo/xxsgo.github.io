@@ -638,7 +638,7 @@ header .go-back i {
         background: rgba(48, 22, 28, 0.75);
         background: linear-gradient(45deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
-        background: -webkit-linear-gradient(135deg, rgba(248, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
+        background: -webkit-linear-gradient(135deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
     }
 }
 
@@ -684,7 +684,7 @@ header .go-back i {
         background: rgba(48, 22, 28, 0.75);
         background: linear-gradient(45deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
         background: -moz-linear-gradient(135deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
-        background: -webkit-linear-gradient(135deg, rgba(248, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
+        background: -webkit-linear-gradient(135deg, rgba(48, 22, 28, 0.75) 0%, rgba(48, 22, 28, 0.65) 100%);
     }
 }
 
@@ -1888,9 +1888,12 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #74769B 0%, #74759B 100%);
+    background: linear-gradient(to bottom right, #341D28 0%, #341D28 100%);
     width: 48px;
     height: 48px;
+	border-color: #FFFFFF;
+	border-style: solid;
+	border-width: 1px;
 }
 
 .top-scroll .btn-floating i {
